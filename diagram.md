@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     actor C as Customer
     participant S as "Жүйе"
@@ -44,3 +45,4 @@ sequenceDiagram
     %% Мероприятие аяқталуы
     S->>C: Пікір қалдыру
     S->>M: Пікірлер туралы есеп
+```
